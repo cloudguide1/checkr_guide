@@ -2,6 +2,20 @@
 
 <details>
 
+<summary>CloudCheckr 데모 영상 (Youtube) </summary>
+
+스마일샤크에서 제작한 CloudCheckr 가이드 영상을 유튜브에서 확인할 수 있습니다.&#x20;
+
+하단의 링크를 통해 접속 가능합니다.&#x20;
+
+[https://www.youtube.com/watch?v=yVGX0RKvxp4](https://www.youtube.com/watch?v=yVGX0RKvxp4)
+
+<img src="../.gitbook/assets/클라우드체커가이드_썸네일.png" alt="" data-size="original">
+
+</details>
+
+<details>
+
 <summary>[Q1] CloudCheckr CMx 접속방법</summary>
 
 클라우드체커 CMx에 접속하는 방법은 다음과 같습니다.
@@ -174,3 +188,4 @@ AWS 및 클라우드체커에서는 타임존 기준을 UTC로 잡고 있지만,
 금액 뿐만 아니라, AWS에서 집계되는 모든 데이터는 체커에서 실시간으로 반영되는 것이 아닌 시간을 두고 적용됩니다.
 
 </details>
+
